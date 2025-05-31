@@ -179,18 +179,14 @@ cmd({
         ┃★│ ⚠️ *Restricted*
         ┃★│ • block @user
         ┃★│ • unblock @user
-        ┃★│ • fullpp [img]
         ┃★│ • setpp [img]
         ┃★│ • restart
         ┃★│ • shutdown
-        ┃★│ • updatecmd
         ┃★╰───────────���──
         ┃★╭──────────────
         ┃★│ ℹ️ *Info Tools*
         ┃★│ • gjid
         ┃★│ • jid @user
-        ┃★│ • adultmenu 
-        ┃★│ • mpesamenu
         ┃★│ • boom
         ┃★╰──────────────
         ╰━━━━━━━━━━━━━━━┈⊷

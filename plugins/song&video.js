@@ -67,7 +67,7 @@ let des = `* DILSHAN BOT VIDEO DOWNLOADER *
 
 | ➤ AGO - ${data.ago}
 
-> ©dave
+> ©Powerd By DILSHAN MD☀
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:des},{quoted:mek});
 

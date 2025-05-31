@@ -116,7 +116,7 @@ async (conn, mek, m, { from, args, q, reply }) => {
         if (!q) return reply("Please provide a TikTok video link.");
         if (!q.includes("tiktok.com")) return reply("Invalid TikTok link.");
         
-        reply("*_AWAIS-MD DOWNLOADING TIKTOK VIDEO , PLEASE WAIT...🚀_*");
+        reply("*_DILSHAN-MD DOWNLOADING TIKTOK VIDEO , PLEASE WAIT...🚀_*");
         
         const apiUrl = `https://delirius-apiofc.vercel.app/download/tiktok?url=${q}`;
         const { data } = await axios.get(apiUrl);
@@ -126,10 +126,10 @@ async (conn, mek, m, { from, args, q, reply }) => {
         const { title, like, comment, share, author, meta } = data.data;
         const videoUrl = meta.media.find(v => v.type === "video").org;
         
-        const caption = `🎵 *AWAIS-MD TIKTOK VIDEO* 🎵\n\n` +
+        const caption = `🎵 *DILSHAN-MD TIKTOK VIDEO* 🎵\n\n` +
                         `👤 *USER:* ${author.nickname} (@${author.username})\n` +
                         `📖 *TITLE:* ${title}\n` +
-                        `👍 *LIKES:* ${like}\n💬 *COMMENTS:* ${comment}\n🔁 *SHARES:* ${share}\n\n *©ᴀᴡᴀɪs ᴍᴅ* ♥️`;
+                        `👍 *LIKES:* ${like}\n💬 *COMMENTS:* ${comment}\n🔁 *SHARES:* ${share}\n\n *> ©Powerd By DILSHAN MD☀* ♥️`;
         
         await conn.sendMessage(from, {
             video: { url: videoUrl },

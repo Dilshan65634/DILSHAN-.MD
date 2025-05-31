@@ -191,6 +191,8 @@ cmd({
         ┃★│ • restart
         ┃★│ • shutdown
         ┃★│ • updatecmd
+        ┃★│ • owner
+        ┃★│ • pair
         ┃★╰───────────���──
         ┃★╭──────────────
         ┃★│ ℹ️ *Info Tools*

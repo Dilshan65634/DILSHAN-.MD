@@ -11,7 +11,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `*Dark Shadow MD Repastitory Information*
+let dec = `*DILSHAN MD Repastitory Information*
 
 *| ɴᴀᴍᴇ*: ᴅɪʟꜱʜᴀɴ ᴍᴅ
 *| ᴏᴡɴᴇʀ*: ᴅɪʟꜱʜᴀɴ ᴀꜱʜɪɴꜱᴀ
@@ -20,7 +20,7 @@ let dec = `*Dark Shadow MD Repastitory Information*
 
 
 *📡 REPO LINK*
-🔗◦පුකද බලන්න ʀᴇᴘᴏ නෑ මල්ලී😂😂😂
+🔗◦පුකද බලන්නෙ ᴇᴘᴏ නෑ මල්ලී😂😂😂
 
 
 >|©Powerd By DILSHAN MD☀

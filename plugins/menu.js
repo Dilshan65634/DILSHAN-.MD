@@ -111,6 +111,7 @@ cmd({
         ┃🚀│ 🌐 *Social Media*
         ┃🚀│ • fb [url]
         ┃🚀│ • mediafire [url]
+        ┃🚀| • ig [url]
         ┃🚀│ • tiktok [url]
         ┃🚀| • likee
         ┃🚀│ • img [query]

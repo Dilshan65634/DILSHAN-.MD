@@ -14,7 +14,7 @@ try{
 let data = await fetchJson(`https://dark-shan-yt.koyeb.app/ai/gemini?q=${q}`)
 return reply(`${data.data}
 
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ᴰᴵᴸˢᴴᴬᴺ ᴹᴰ`)
+> ©Powerd By DILSHAN MD☀`)
 }catch(e){
 console.log(e)
 reply(`${e}`)

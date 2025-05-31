@@ -14,7 +14,7 @@ try{
 let about = ` HELLOW THEIR ${senderNumber} I AM DILSHAN WHATSAPP BOT 
               CREATED BY DILSHAN ASHINSA🖇️🧑‍💻
               
-              > *©ᴅɪʟꜱʜᴀɴ ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ*
+              > *©Powerd By DILSHAN MD*
               
               THANKS FOR USING DILSHAN MD WHATSAPP BOT`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption:about},{quoted: mek})

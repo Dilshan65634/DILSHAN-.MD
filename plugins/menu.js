@@ -182,6 +182,7 @@ cmd({
         ┃★│ • setpp [img]
         ┃★│ • restart
         ┃★│ • shutdown
+        ┃★│ • broadcast
         ┃★╰───────────���──
         ┃★╭──────────────
         ┃★│ ℹ️ *Info Tools*

@@ -16,7 +16,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const status = `┏━❮ 🩵𝐃𝐈𝐋𝐒𝐇𝐀𝐍 𝐌𝐃🩵 ❯━
 ┃◈┃🤖 ʙᴏᴛ ɴᴀᴍᴇ :ᴅɪʟꜱʜᴀɴ ᴍᴅ
 ┃◈┃🔖 ᴠᴇʀsɪᴏɴ : 2.0.0 ʙᴇᴛᴀ
-┃◈┃📟 ᴘʟᴀᴛғᴏʀᴍ : ʀᴇᴘʟᴛɪᴛ
+┃◈┃📟 ᴘʟᴀᴛғᴏʀᴍ : ʀᴇᴘʟɪᴛ
 ┃◈┃👨‍💻ᴏᴡɴᴇʀ: ᴅɪʟꜱʜᴀɴ ᴀꜱʜɪɴꜱᴀ
 
 ┃◈┃📆 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())} 
